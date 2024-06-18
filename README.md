@@ -1,1 +1,1 @@
-# first_github-example
+# Example of README.md
